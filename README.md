@@ -1,3 +1,5 @@
 # electron-custom-titlebar-modern
 Customizable Titlebar for Electron applications
-to run: npm start 
+
+# to run application
+> npm start
