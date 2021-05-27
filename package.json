@@ -1,0 +1,18 @@
+{
+  "name": "electron-custom-titlebar-modern",
+  "version": "1.0.0",
+  "description": "Modern electron-custom-titlebar",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique R. Pereira",
+  "license": "MIT",
+  "dependencies": {
+    "electron-custom-titlebar-modern": "3.2.5"
+  },
+  "devDependencies": {
+    "electron": "^13.0.1"
+  }
+}

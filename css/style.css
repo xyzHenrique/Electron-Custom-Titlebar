@@ -1,0 +1,47 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #d6d6d6;
+    	user-select: none;
+}
+
+#titlebar {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+
+#titlebar-title {
+    position: absolute;
+    top: 1%;
+    color: white;
+}
+
+header {
+    -webkit-app-region: drag;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    background: #1f1f1f;
+    align-self: stretch;
+}
+
+.titlebar-btn-option {
+    -webkit-app-region: no-drag;
+    padding: 5px 25px;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#titlebar-btn-close:hover {
+    background-color: red;
+}
+
+#titlebar-btn-minimize:hover {
+    background-color: rgb(59, 59, 59);
+}
+
+#titlebar-btn-maximize:hover {
+    background-color: rgb(59, 59, 59);
+}
