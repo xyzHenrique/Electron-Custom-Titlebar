@@ -12,7 +12,8 @@ function init() {
         var window = BrowserWindow.getFocusedWindow();
         if(window.isMaximized()){
             window.unmaximize();
-        }else{
+        }
+        else{
             window.maximize();
         }
     });
