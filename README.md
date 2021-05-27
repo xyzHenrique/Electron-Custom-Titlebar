@@ -10,4 +10,8 @@ npm start
 
 ![Screenshot](screenshot.png)
 
+## License
+
+MIT © [Henrique](https://github.com/HenryQFX)
+
 ")
