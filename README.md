@@ -1,4 +1,4 @@
-# electron-custom-titlebar-modern
+# Electron Custom Titlebar
 Customizable Titlebar for Electron applications
 
 ## start
