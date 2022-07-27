@@ -12,6 +12,6 @@ npm start
 
 ## License
 
-MIT © [Henrique](https://github.com/HenryQFX)
+MIT © [Henrique](https://github.com/RIick-013)
 
 ")
